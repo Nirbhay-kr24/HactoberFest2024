@@ -53,3 +53,4 @@
 | Aditya Pandey |<a href="https://github.com/Aditya7pandey">Aditya7pandey</a>|
 | Yash Bandal |<a href="https://github.com/Yash-Bandal">Yash Bandal</a>|
 | Harshit Jaiswal |<a href="https://github.com/harshu84190">Harshit Jaiswal</a>|
+| Nirbhay Kumar |<a href="https://github.com/Nirbhay-kr24">Nirbhay Kumar</a>|
